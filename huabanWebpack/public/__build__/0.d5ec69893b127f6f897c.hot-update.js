@@ -1,0 +1,12 @@
+webpackHotUpdate(0,{
+
+/***/ 289:
+/***/ (function(module, exports) {
+
+"use strict";
+throw new Error("Module build failed: SyntaxError: Unexpected token (107:83)\n\n\u001b[0m \u001b[90m 105 | \u001b[39m                                    \u001b[33m<\u001b[39m\u001b[33mdiv\u001b[39m className\u001b[33m=\u001b[39m\u001b[32m\"draglay\"\u001b[39m\u001b[33m>\u001b[39m\u001b[33m<\u001b[39m\u001b[33m/\u001b[39m\u001b[33mdiv\u001b[39m\u001b[33m>\u001b[39m\u001b[33m<\u001b[39m\u001b[33mdiv\u001b[39m title\u001b[33m=\u001b[39m\u001b[32m\"拖动改变排序\"\u001b[39m className\u001b[33m=\u001b[39m\u001b[32m\"drag-icon\"\u001b[39m\u001b[33m>\u001b[39m\u001b[33m<\u001b[39m\u001b[33m/\u001b[39m\u001b[33mdiv\u001b[39m\u001b[33m>\u001b[39m\n \u001b[90m 106 | \u001b[39m                                    \u001b[33m<\u001b[39m\u001b[33ma\u001b[39m href\u001b[33m=\u001b[39m\u001b[32m\"/boards/38936970/\"\u001b[39m target\u001b[33m=\u001b[39m\u001b[32m\"_blank\"\u001b[39m className\u001b[33m=\u001b[39m\u001b[32m\"link  x\"\u001b[39m\u001b[33m>\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 107 | \u001b[39m                                        \u001b[33m<\u001b[39m\u001b[33mimg\u001b[39m src\u001b[33m=\u001b[39m{\u001b[32m\"//hbimg.b0.upaiyun.com/\"\u001b[39m\u001b[33m+\u001b[39mv\u001b[33m.\u001b[39mpins\u001b[33m.\u001b[39m}\n \u001b[90m     | \u001b[39m                                                                                   \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 108 | \u001b[39m                                             data\u001b[33m-\u001b[39mbaiduimageplus\u001b[33m-\u001b[39mignore\u001b[33m=\u001b[39m\u001b[32m\"1\"\u001b[39m className\u001b[33m=\u001b[39m\u001b[32m\"large\"\u001b[39m\u001b[33m/\u001b[39m\u001b[33m>\u001b[39m\n \u001b[90m 109 | \u001b[39m                                        \u001b[33m<\u001b[39m\u001b[33mdiv\u001b[39m className\u001b[33m=\u001b[39m\u001b[32m\"shadows\"\u001b[39m\u001b[33m>\u001b[39m\n \u001b[90m 110 | \u001b[39m                                            \u001b[33m<\u001b[39m\u001b[33mdiv\u001b[39m className\u001b[33m=\u001b[39m\u001b[32m\"large-shadow\"\u001b[39m\u001b[33m>\u001b[39m\u001b[33m<\u001b[39m\u001b[33m/\u001b[39m\u001b[33mdiv\u001b[39m\u001b[33m>\u001b[39m\u001b[0m\n");
+
+/***/ })
+
+})
+//# sourceMappingURL=0.d5ec69893b127f6f897c.hot-update.js.map

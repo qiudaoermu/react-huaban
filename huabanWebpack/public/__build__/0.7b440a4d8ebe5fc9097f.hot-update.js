@@ -1,0 +1,12 @@
+webpackHotUpdate(0,{
+
+/***/ 289:
+/***/ (function(module, exports) {
+
+"use strict";
+throw new Error("Module build failed: SyntaxError: Expected corresponding JSX closing tag for <a> (98:108)\n\n\u001b[0m \u001b[90m  96 | \u001b[39m\n \u001b[90m  97 | \u001b[39m                            \u001b[33m<\u001b[39m\u001b[33mdiv\u001b[39m id\u001b[33m=\u001b[39m\u001b[32m\"nav_user\"\u001b[39m onClick\u001b[33m=\u001b[39m{\u001b[36mthis\u001b[39m\u001b[33m.\u001b[39m\u001b[33mLinkToUserInfo\u001b[39m\u001b[33m.\u001b[39mbind(\u001b[36mthis\u001b[39m)}\u001b[33m>\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m  98 | \u001b[39m                                \u001b[33m<\u001b[39m\u001b[33mLink\u001b[39m to\u001b[33m=\u001b[39m\u001b[32m\"/UserInfo\"\u001b[39m\u001b[33m>\u001b[39m  \u001b[33m<\u001b[39m\u001b[33ma\u001b[39m href\u001b[33m=\u001b[39m\u001b[32m\"/q42p11pfnu/\"\u001b[39m className\u001b[33m=\u001b[39m\u001b[32m\"nav-link dm-nav\"\u001b[39m\u001b[33m>\u001b[39m  \u001b[33m<\u001b[39m\u001b[33m/\u001b[39m\u001b[33mLink\u001b[39m\u001b[33m>\u001b[39m\n \u001b[90m     | \u001b[39m                                                                                                            \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m  99 | \u001b[39m\n \u001b[90m 100 | \u001b[39m                                \u001b[33m<\u001b[39m\u001b[33mimg\u001b[39m width\u001b[33m=\u001b[39m\u001b[32m\"26\"\u001b[39m height\u001b[33m=\u001b[39m\u001b[32m\"26\"\u001b[39m src\u001b[33m=\u001b[39m\u001b[32m\"//hbimg.b0.upaiyun.com/79c19673f6d42b0411bc2e75fc472356e8b521ba1e26-EcdWTk_sq75sf\"\u001b[39m data\u001b[33m-\u001b[39mbaiduimageplus\u001b[33m-\u001b[39mignore\u001b[33m=\u001b[39m\u001b[32m\"1\"\u001b[39m className\u001b[33m=\u001b[39m\u001b[32m\"avt\"\u001b[39m\u001b[33m/\u001b[39m\u001b[33m>\u001b[39m\n \u001b[90m 101 | \u001b[39m                                    \u001b[33m<\u001b[39m\u001b[33mdiv\u001b[39m className\u001b[33m=\u001b[39m\u001b[32m\"arrow\"\u001b[39m\u001b[33m>\u001b[39m\u001b[33m<\u001b[39m\u001b[33m/\u001b[39m\u001b[33mdiv\u001b[39m\u001b[33m>\u001b[39m\u001b[0m\n");
+
+/***/ })
+
+})
+//# sourceMappingURL=0.7b440a4d8ebe5fc9097f.hot-update.js.map
