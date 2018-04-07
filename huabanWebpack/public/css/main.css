@@ -348,7 +348,7 @@ em {
 .wrapper {
     position: relative;
     margin: 0 auto;
-    width: 1496px;
+    width: 1320px;
     border: 0;
 }
 .firstNewsContent {
@@ -675,6 +675,7 @@ h2 {
 .my-gallery-class li{
     background-color: #fff;
     font-size: 12px;
+    margin: 14px 14px;
 
     -webkit-box-shadow: 0 1px 3px rgba(0,0,0,.3);
     margin-top: 20px;
