@@ -8,7 +8,7 @@ var ReactDOM = require('react-dom');
 
 class Index extends React.Component{
     constructor(){
-        super()
+        super();
         var t = window.location.href.split("?")[1].split("=")[1]
         console.log(t)
 
